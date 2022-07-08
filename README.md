@@ -14,7 +14,6 @@ Primero tener en cuenta los siguientes requisitos:
 
 - PHP 8.
 - Composer 2.1
-- XAMPP(Apache y PhpMyAdmin).
 - Node 16.13.2
 
 Luego de realizar la instalación de las herramientas requeridas ejecutar lo siguiente.
